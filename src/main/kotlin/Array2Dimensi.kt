@@ -15,7 +15,7 @@ fun main(args: Array<String>){
         }
         println()
     }
-//baris dibawah untuk mengisi data
+//baris dibawah untuk mengisi data atau Filling With Data ()
     cinema[2][2] = 1
     for (i in 1..3) {
         cinema[3][i] = 1
