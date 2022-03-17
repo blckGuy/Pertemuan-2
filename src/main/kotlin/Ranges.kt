@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-//Ranges
+//Ranges adalah rentang atau jarak antara data yang di tampilkan
     val i:Int = 2
     for (j in 1..4)
         print(j) // melakukan print 1234

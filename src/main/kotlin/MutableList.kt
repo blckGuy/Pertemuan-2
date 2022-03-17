@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-//MutableList is a List with list-specific write operations
+//MutableList is a List with list-specific write operations// mutableList merupakan sebuah list dengan penulisan list yang spesifik operasi
     val numbers = mutableListOf(1, 2, 3, 4)
     numbers.add(5)
     numbers.removeAt(1)
