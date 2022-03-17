@@ -34,8 +34,8 @@ fun main(args: Array<String>) {
     println("simpsons size: " + simpsonsE.size)
     if(!simpsonsE.isEmpty())
         println("Array tidak kosong!")
-    println("Min = "+ simpsonsE.min())
-    println("Max = "+ simpsonsE.max())
+    println("Min = "+ simpsonsE.minOrNull())
+    println("Max = "+ simpsonsE.maxOrNull())
     println("First = " + simpsonsE.first())
     println("Last = " + simpsonsE.last())
 
