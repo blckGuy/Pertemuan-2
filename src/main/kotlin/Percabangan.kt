@@ -16,10 +16,10 @@ fun main(args: Array<String>) {
     }
     println("Maximum of a or b is " + max)
 //If - else if
-    var myVar: Int = 0 // the variable is initialized with a value of 0
-    if (myVar == 0) { // if the value is 0, we change its value to 1
+    var myVar: Int = 0 // variabel disamping di inisiaslisasi dengan nilai 0
+    if (myVar == 0) { // jika nilai nya 0 kita rubah nilainya menjadi 1
         myVar = 1
-    } else if(myVar == 1){ // if the value is 1, we change its value to 0
+    } else if(myVar == 1){ // jika nilai nya 1 kita rubah nilainya menjadi 0
         myVar = 0
     } else {
         myVar = -1
