@@ -12,7 +12,7 @@ removeAt(), toTypedArray(), lastIndexOf(), removeAll(), reverse()
     }
     print("\n")
     arrayList += 9
-
+//Array ini ditujukan untuk melakukan list data yang bertipe sama dan bersifat fleksibel
     print("Tambahkan elemen 9 dalam arrayList : ")
     println(arrayList)
     arrayList.reverse()

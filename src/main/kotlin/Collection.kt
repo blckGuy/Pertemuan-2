@@ -8,3 +8,5 @@ fun main(args: Array<String>) {
     val stringSet = setOf("one", "two", "three")
     printAll(stringSet)
 }
+//collection digunakan unutk menyimpan kelompok data yang berada dalam memori,
+// dalam collection kita bisa mengambil, menyimpan dan juga mengatur.

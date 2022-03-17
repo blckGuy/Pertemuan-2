@@ -1,3 +1,5 @@
+//Array multidimensi adalah sebuah variabel yang menyimpan sekumpulan data
+// yang memiliki tipe sama dan elemen yang akan diakses melalui banyak indeks
 fun main(args: Array<String>) {
 //N-dimensional arrays
     var cinemas = arrayOf<Array<Array<Int>>>()

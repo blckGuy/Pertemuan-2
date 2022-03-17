@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
         print('\n')
     }
 
-    //reverse() and reversedArray()
+    //reverse() and reversedArray() atau mebalikkan data
     val simpsonsC: Array<String> = arrayOf("Dani", "Zizi", "Dicky", "Agoong")
     simpsonsC.sort()
     simpsonsC.reverse()
@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
         print(simpson + ' ')
     }
     print('\n')
-//indexOf()
+//indexOf() atau mengembalikan nilai yang telah diubah dari kejadian pertama
     val simpsonsD = arrayOf("Dani", "Zizi", "Dicky", "Agoong")
     val simpson = "Dani"
     val position = simpsonsD.indexOf(simpson)

@@ -1,3 +1,4 @@
+//array adalah kumpulan data yang terdiri atas banyak variabel dengan tipe data yang sama.
 fun main(args: Array<String>) {
     //Array
     var arrA = arrayListOf<Int>()

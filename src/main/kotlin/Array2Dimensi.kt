@@ -1,3 +1,4 @@
+//Array 2 dimensi adalah sebutan untuk array untuk penomoran indexnya menggunakan 2 buah angka
 fun main(args: Array<String>){
 //initialize a 2D array
     var cinema = arrayOf<Array<Int>>()
@@ -14,7 +15,7 @@ fun main(args: Array<String>){
         }
         println()
     }
-//Filling with data
+//baris dibawah untuk mengisi data
     cinema[2][2] = 1
     for (i in 1..3) {
         cinema[3][i] = 1
