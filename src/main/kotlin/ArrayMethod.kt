@@ -30,7 +30,7 @@ fun main(args: Array<String>) {
     } else {
         println("Hey that's not Simpson!")
     }
-    val simpsonsE = arrayOf("Homer", "Marge", "Bart", "Lisa", "Meggie")
+    val simpsonsE = arrayOf("Dani", "Zizi", "Dicky", "Agoong")
     println("simpsons size: " + simpsonsE.size)
     if(!simpsonsE.isEmpty())
         println("Array tidak kosong!")
